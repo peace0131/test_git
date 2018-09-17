@@ -1,0 +1,37 @@
+[33mcommit 451e7419e801e0d3f114cbaddc1e6e2d9777ef77[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: peace0131 <gksgmlwnd@naver.com>
+Date:   Mon Sep 17 21:42:10 2018 +0900
+
+    파일 삭제
+
+ git_test.txt => test.txt | 0
+ test_abc.txt             | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit a405d21e334e94c1c33b2f8d9fa464b3cf4c0146[m
+Author: peace0131 <gksgmlwnd@naver.com>
+Date:   Mon Sep 17 21:39:56 2018 +0900
+
+    Add .gitignore file
+
+ .gitignore   | 1 [32m+[m
+ test_abc.txt | 0
+ 2 files changed, 1 insertion(+)
+
+[33mcommit 98ff6375702f158cc74a4e86695c66871448c00f[m
+Author: peace0131 <gksgmlwnd@naver.com>
+Date:   Mon Sep 17 21:35:09 2018 +0900
+
+    Add new messages
+
+ git_test.txt | 5 [32m++++[m[31m-[m
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+[33mcommit 1a220e1928156e9d0c3c64ee46977acd8c9c90e2[m
+Author: peace0131 <gksgmlwnd@naver.com>
+Date:   Mon Sep 17 21:30:08 2018 +0900
+
+    First commit
+
+ git_test.txt | 3 [32m+++[m
+ 1 file changed, 3 insertions(+)
